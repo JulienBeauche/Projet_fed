@@ -1,0 +1,36 @@
+.Home-header {
+  margin-top: 5%;
+}
+
+.Add-emprunt {
+  margin-top: 2%;
+}
+
+.colorbtn{
+  background-color:rgb(208, 208, 208) !important;
+  border-color: white !important;
+  color: black !important;
+}
+
+.colorBtnBack{
+  background-color: #2D4D9F !important;
+}
+
+a {
+  color: rgb(255, 255, 255) !important;
+}
+.sizeBtn{
+  width: 100%;
+}
+
+.sizeCont{
+  width: 65% !important;
+}
+
+.sizeContEmp{
+  width: 75% !important;
+}
+
+.alignText{
+  text-align: center;
+}
